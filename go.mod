@@ -1,3 +1,3 @@
-module github.com/feliciadrey/ecov_api
+module github.com/Aksa127/snippetbox
 
 go 1.24.1
